@@ -1,8 +1,5 @@
 # Laravel Project
 
-## Overview
-
-This Laravel project is designed to [briefly describe the purpose of the project]. It provides features for [list key features or functionalities]. 
 
 ## Features
 
